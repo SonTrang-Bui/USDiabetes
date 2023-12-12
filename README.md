@@ -7,9 +7,9 @@ In this notebook, we explore and analyse the dataset represeting ten years (1999
 The original datasets contains 101766 instances with 47 features including both categorical and integer types. The dataset can be obtained at: https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
 ## Libraries Requirements
 * pandas
-* numpy
+* NumPy
 * seaborn
-* matplotlib
-* scipy
-* sklearn
-* xgboost
+* Matplotlib
+* SciPy
+* scikit-learn
+* XGBoost
